@@ -1,4 +1,4 @@
-Simple shell is a Team Project done by Ajeigbe Precious and
+Simple shell is a Team Project done by Ajeigbe Precious and Paul Nweke
 
 Requirements
 General
